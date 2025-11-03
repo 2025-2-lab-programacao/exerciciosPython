@@ -1,0 +1,5 @@
+Ana Souza;10000
+Carlos Pereira;25000
+Mariana Lima;18000
+João Silva;30000
+Fernanda Alves;22000
